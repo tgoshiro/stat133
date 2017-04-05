@@ -1,0 +1,12 @@
+---
+title: "Tsubasa_Goshiro_lab8"
+author: "Tsubasa"
+date: "2017/4/5"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I still do not have a partner for the final project
